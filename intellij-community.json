@@ -1,0 +1,5 @@
+{
+  "version": "2023.2.2",
+  "url": "https://download.jetbrains.com/idea/ideaIC-2023.2.2.win.zip",
+  "bin": "bin\\idea64.exe"
+}

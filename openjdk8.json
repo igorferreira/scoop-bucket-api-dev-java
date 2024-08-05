@@ -1,0 +1,6 @@
+{
+  "version": "8u392",
+  "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u392b08.zip",
+  "extract_dir": "jdk8u392-b08",
+  "env_add_path": "bin"
+}

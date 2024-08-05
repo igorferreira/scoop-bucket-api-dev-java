@@ -1,0 +1,7 @@
+{
+  "version": "1.6.00.12455",
+  "url": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.12455/Teams_windows_x64.exe",
+  "installer": {
+    "script": "Start-Process -Wait \"$dir\\Teams_windows_x64.exe\" -ArgumentList '--silent'"
+  }
+}

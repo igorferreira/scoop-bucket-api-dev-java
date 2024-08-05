@@ -1,0 +1,5 @@
+{
+  "version": "8.4.0_1",
+  "url": "https://curl.se/windows/dl-8.4.0_1/curl-8.4.0_1-win64-mingw.zip",
+  "bin": "bin\\curl.exe"
+}
